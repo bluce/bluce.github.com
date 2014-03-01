@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://bluce.github.io/sitemap.xml 
+Sitemap: http://www.chichudejiejue.com/sitemap.xml 
