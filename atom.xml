@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[彳亍de孑孓 的个人博客]]></title>
   <link href="http://bluce.github.io/atom.xml" rel="self"/>
   <link href="http://bluce.github.io/"/>
-  <updated>2014-03-01T00:27:36+08:00</updated>
+  <updated>2014-03-01T08:53:43+08:00</updated>
   <id>http://bluce.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Bluce Nong]]></name>
+    <email><![CDATA[blucenong@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
