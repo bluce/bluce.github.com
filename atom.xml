@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[彳亍de孑孓 的 个人博客]]></title>
-  <link href="http://www.chichudejiejue.com/atom.xml" rel="self"/>
-  <link href="http://www.chichudejiejue.com/"/>
-  <updated>2014-03-01T09:26:21+08:00</updated>
-  <id>http://www.chichudejiejue.com/</id>
+  <link href="http://bluce.github.com/atom.xml" rel="self"/>
+  <link href="http://bluce.github.com/"/>
+  <updated>2014-03-01T09:32:03+08:00</updated>
+  <id>http://bluce.github.com/</id>
   <author>
     <name><![CDATA[Bluce Nong]]></name>
     <email><![CDATA[blucenong@gmail.com]]></email>
